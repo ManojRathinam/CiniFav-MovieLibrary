@@ -11,6 +11,7 @@ MovieApp is a web application that allows users to search for movies, add them t
 - [Running the Project](#running-the-project)
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
+- [Demo of the Project](#project-Demo)
 
 ## Prerequisites
 
@@ -125,6 +126,13 @@ Create a `.env` file in the `backend` directory and add the following variables:
 PORT
 JWT_SECRET
 MONGODB(If you are using it)
+
+## Project Demo
+![image](https://github.com/ManojRathinam/CiniFav-MovieLibrary/assets/73572777/82ce456f-8839-4774-8587-1c759df94132)
+
+![image](https://github.com/ManojRathinam/CiniFav-MovieLibrary/assets/73572777/0835b9f0-3f54-41c3-87ec-3510635d438a)
+
+![image](https://github.com/ManojRathinam/CiniFav-MovieLibrary/assets/73572777/c57793a9-0458-48b8-a3f9-0f3f5100ebe4)
 
 ## Notes
 
